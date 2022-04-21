@@ -1,4 +1,4 @@
-cryptonote-haven-pool
+cryptonote-haven-pool WIP
 ====================
 
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, Haven, Boolberry, Dashcoin, etc..
