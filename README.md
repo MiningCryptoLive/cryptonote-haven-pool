@@ -1,7 +1,7 @@
-cryptonote-xmr-pool
+cryptonote-Haven-pool
 ====================
 
-High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, etc..
+High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, Haven, Boolberry, Dashcoin, etc..
 Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
